@@ -162,7 +162,7 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
   Delta compression using up to 8 threads.
   Compressing objects: 100% (4/4), done.
   Writing objects: 100% (5/5), 2.97 KiB | 0 bytes/s, done.
-  Total 5 (delta 1), reused 0 (delta 0)
+  Total 5 (delta 1), reused 0 (delta 0)git
   remote: Resolving deltas: 100% (1/1), completed with 1 local object.
   To git@github.com:[your username]/Precourse.git
     cccc682..283b9dd  master -> master
